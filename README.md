@@ -4,6 +4,6 @@
 
 
 
-![](img/known/stefan.png)
-![](img/known/ulf.png)
-![](img/known/jimmie.png)
+![](img/known/stefan.jpg)
+![](img/known/ulf.jpg)
+![](img/known/jimmie.jpg)
