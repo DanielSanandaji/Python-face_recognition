@@ -1,3 +1,3 @@
 # Python-face_recognition
 
-![](img/Politiker_Klar.png)
+![](img/groups/Politiker_Klar.png)
